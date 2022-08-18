@@ -15,12 +15,12 @@ Gerenciamento simplista do registro de filmes assistidos em um sistema web desen
 
 ### React 17.0.2 e Node 16.2.0 com framework Express
 
-### Dependências e Pacotes Front
+### Dependências Front
 - @material-ui/core: reponsável pela caixa de diálogo de edição e exclusão;
 - axios: cliente http;
 - react: dependência do React;
 
-### Dependências e Pacote Back
+### Dependências Back
 - cors: fornece um middleware Connect/Express que pode ser usado para habilitar o CORS com várias opções;
 - express: framework Node que gerencia requisições HTTP, requisições, requests;
 - mysql: conexão com o banco;
@@ -32,3 +32,5 @@ Gerenciamento simplista do registro de filmes assistidos em um sistema web desen
 
 ### Edição do codigo e integração com o git
 - Visual Studio Code
+
+
