@@ -1,0 +1,58 @@
+@font-face {
+	font-family: Oswald;
+	src: url("Oswald-VariableFont_wght.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container-principal {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-registro {
+  padding: 20px 40px;
+  width: max-content;
+  height: max-content;
+  margin-top: 10px;
+  margin-bottom: 15px;
+
+  border: 6px solid black;
+  border-radius: 10px;
+}
+
+.app-titulo {
+  text-align: center;
+  margin-bottom: 40px;
+  font-family: Oswald;
+  font-size: 45px;
+}
+
+.input-titulos {
+  text-align: left;
+  margin: 20px auto;
+  margin-left: 0px;
+  font-family: Oswald;
+  font-size: 30px;
+}
+
+.input-filme {
+  text-align: left;
+  display: block;
+  margin: 20px auto;
+  padding: 10px 80px;
+  font-family: Oswald;
+  font-size: 20px;
+  width: 200px;
+}
+
+.botao-cadastro {
+  padding: 4px 10px;
+  margin-top: 20px;
+  font-family: Oswald;
+  font-size: 20px;
+}
